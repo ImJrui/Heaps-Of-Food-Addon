@@ -9,7 +9,7 @@ end
 name = translate({en = "Heap Of Foods Addon", zh = "HOP补丁"})
 
 --A description of the mod.
-description = "version v1.0.0"
+description = "version v1.0.1"
 
 --Who wrote this awesome mod?
 author = "TUTU"
