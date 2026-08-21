@@ -23,7 +23,7 @@ api_version = 10
 dst_compatible = true
 
 --This lets clients know if they need to get the mod from the Steam Workshop to join the game
-all_clients_require_mod = true
+all_clients_require_mod = false
 
 --This determines whether it causes a server to be marked as modded (and shows in the mod list)
 client_only_mod = false
