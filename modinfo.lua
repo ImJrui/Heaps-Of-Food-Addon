@@ -15,7 +15,7 @@ description = "version v1.0.1"
 author = "TUTU"
 
 --A version number so you can ask people if they are running an old version of your mod.
-version = "v1.0.1"
+version = "v1.0.2"
 
 --This lets other players know if your mod is out of date. This typically needs to be updated every time there's a new game update.
 api_version = 10
@@ -23,7 +23,7 @@ api_version = 10
 dst_compatible = true
 
 --This lets clients know if they need to get the mod from the Steam Workshop to join the game
-all_clients_require_mod = false
+all_clients_require_mod = true
 
 --This determines whether it causes a server to be marked as modded (and shows in the mod list)
 client_only_mod = false
