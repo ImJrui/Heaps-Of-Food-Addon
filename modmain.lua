@@ -1,14 +1,17 @@
-local modimport = modimport
+-- modmain.lua
+-- All files must be imported explicitly — there is no auto-loading for
+-- postinit/ or any other directory.
 
+-- Utility helpers (MergeTable, IsArray).
 modimport("main/toolutil")
 
-modimport("scripts/components/new_forgerepair")
-modimport("scripts/components/new_sisturnregistry")
+-- Populates STRINGS.RECIPE_DESC from STRINGS.CHARACTERS.GENERIC.DESCRIBE
+-- at AddSimPostInit time (after parent mod's kyno_* DESCRIBE entries land).
+modimport("main/strings")
 
-modimport("scripts/rebalance/ghostflowerhat")
-modimport("scripts/rebalance/abigail")
-modimport("scripts/rebalance/ghostly_elixirs")
-modimport("scripts/rebalance/grave")
-modimport("scripts/rebalance/moondial")
-modimport("scripts/rebalance/recipes")
-modimport("scripts/rebalance/skilltree_wendy")
+-- Registers Partitio barter recipes (18 AddRecipe2 calls).
+modimport("postinit/recipes")
+
+-- Hooks kyno_deciduousforest_seller via AddPrefabPostInit to register
+-- WARES rows matching the recipes above (required for LearnItem to fire).
+modimport("postinit/prefabs/k_deciduousforest_trader")
