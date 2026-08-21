@@ -7,90 +7,125 @@ msgstr ""
 
 #. STRINGS.RECIPE_DESC.FIRENETTLES_A
 msgctxt "STRINGS.RECIPE_DESC.FIRENETTLES_A"
-msgid "Fire Nettles"
-msgstr "火荨麻"
+msgid "If you can't stand the heat, stay out of the garden."
+msgstr "如果你受不了热，就不要在花园里呆着。"
 
 #. STRINGS.RECIPE_DESC.KYNO_ICENETTLES_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_ICENETTLES_A"
-msgid "Frosty Nettles"
-msgstr "冰荨麻"
+msgid "The Garden is giving us a cold reception."
+msgstr "The Garden is giving us a cold reception."
 
 #. STRINGS.RECIPE_DESC.KYNO_TWIGGYNUTS_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_TWIGGYNUTS_A"
-msgid "Twiggy Nuts"
-msgstr "枝条坚果"
+msgid "A bunch of nuts."
+msgstr "一堆坚果。"
 
 #. STRINGS.RECIPE_DESC.DRUMSTICK_A
 msgctxt "STRINGS.RECIPE_DESC.DRUMSTICK_A"
-msgid "Drumstick"
-msgstr "鸡腿"
+msgid "Ready for gobbling."
+msgstr "准备好狼吞虎咽了。"
 
 #. STRINGS.RECIPE_DESC.SUCCULENT_PICKED_A
 msgctxt "STRINGS.RECIPE_DESC.SUCCULENT_PICKED_A"
-msgid "Succulent"
-msgstr "多肉植物"
+msgid "I could eat that, but I'd rather not."
+msgstr "我能吃那个，但我不想吃。"
 
 #. STRINGS.RECIPE_DESC.KYNO_WORM_BONE_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_WORM_BONE_A"
-msgid "Worm Bone"
-msgstr "虫骨"
+msgid "Ha ha worm, I have your bone."
+msgstr "哈哈，虫子，你的骨头在我这儿。"
 
 #. STRINGS.RECIPE_DESC.KYNO_SHARK_FIN_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_SHARK_FIN_A"
-msgid "Shark Fin"
-msgstr "鲨鱼鳍"
+msgid "A sleek fin."
+msgstr "光滑的鱼鳍。"
 
 #. STRINGS.RECIPE_DESC.OCEANFISH_MIDNIGHT_CARP_INV_A
 msgctxt "STRINGS.RECIPE_DESC.OCEANFISH_MIDNIGHT_CARP_INV_A"
-msgid "Midnight Carp"
-msgstr "暗影鲤鱼"
+msgid "A moonlit swimmer from shadowed waters."
+msgstr "一种喜欢夜色掩护的好奇鲤鱼。"
 
 #. STRINGS.RECIPE_DESC.KYNO_MOON_FROGLEGS_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_MOON_FROGLEGS_A"
-msgid "Moon Frog Legs"
-msgstr "月光蛙腿"
+msgid "Bright Frog Legs."
+msgstr "月光蛙腿。"
 
 #. STRINGS.RECIPE_DESC.KYNO_SALMONFISH_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_SALMONFISH_A"
-msgid "Salmon Fish"
-msgstr "活鲑鱼"
+msgid "Mm, fresh fish."
+msgstr "嗯，新鲜的鱼。"
+
+#. STRINGS.RECIPE_DESC.KYNO_SAP_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_SAP_A"
+msgid "It tastes sweet."
+msgstr "它尝起来很甜。"
+
+#. STRINGS.RECIPE_DESC.FERN_A
+msgctxt "STRINGS.RECIPE_DESC.FERN_A"
+msgid "It's a fern."
+msgstr "它是一种蕨类植物。"
 
 #. STRINGS.RECIPE_DESC.BUTTER_A
 msgctxt "STRINGS.RECIPE_DESC.BUTTER_A"
-msgid "Butter"
-msgstr "黄油"
+msgid "I can't believe it's butter!"
+msgstr "我无法相信这是黄油！"
 
 #. STRINGS.RECIPE_DESC.KYNO_POISON_FROGLEGS_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_POISON_FROGLEGS_A"
-msgid "Poison Frog Legs"
-msgstr "毒蛙腿"
+msgid "Looks noxious."
+msgstr "看起来很毒。"
 
 #. STRINGS.RECIPE_DESC.KYNO_CRABMEAT_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_CRABMEAT_A"
-msgid "Crab Meat"
-msgstr "螃蟹肉"
+msgid "No imitations here."
+msgstr "这里没有模仿。"
+
+#. STRINGS.RECIPE_DESC.VOLTGOATMILK_A
+msgctxt "STRINGS.RECIPE_DESC.VOLTGOATMILK_A"
+msgid "Milk from a Volt Goat."
+msgstr "电山羊的奶。"
 
 #. STRINGS.RECIPE_DESC.KYNO_PIKO_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_PIKO_A"
-msgid "Piko"
-msgstr "皮克"
+msgid "He's a bit of a nut job."
+msgstr "他有点疯狂。"
+
+#. STRINGS.RECIPE_DESC.KYNO_PIKO_ORANGE_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_PIKO_ORANGE_A"
+msgid "For some reason I'm craving tea."
+msgstr "不知为何我想喝茶。"
 
 #. STRINGS.RECIPE_DESC.KYNO_BEANBUGS_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_BEANBUGS_A"
-msgid "Bean Bugs"
-msgstr "豆虫"
+msgid "Beans. With legs."
+msgstr "豆子，有腿。"
 
 #. STRINGS.RECIPE_DESC.KYNO_LIMPETS_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_LIMPETS_A"
-msgid "Limpets"
-msgstr "青口"
+msgid "Maybe starving wouldn't be so bad."
+msgstr "也许挨饿不会那么糟糕。"
 
 #. STRINGS.RECIPE_DESC.MANDRAKE_A
 msgctxt "STRINGS.RECIPE_DESC.MANDRAKE_A"
-msgid "Mandrake"
-msgstr "曼德拉草"
+msgid "Mandrake roots have strange properties."
+msgstr "曼德拉草根拥有奇怪的属性。"
 
 #. STRINGS.RECIPE_DESC.KYNO_CRABKINGMEAT_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_CRABKINGMEAT_A"
-msgid "Crab King Meat"
-msgstr "蟹王肉"
+msgid "No imitations here."
+msgstr "这里没有假货。"
+
+#. STRINGS.RECIPE_DESC.KYNO_SWORDFISH_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_SWORDFISH_A"
+msgid "I think this fish evolved to run me through."
+msgstr "我觉得这条鱼进化出来就是为了把我刺穿。"
+
+#. STRINGS.RECIPE_DESC.KYNO_SWORDFISH_BLUE_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_SWORDFISH_BLUE_A"
+msgid "A swordfish that forgot how to sword... or swim."
+msgstr "一条忘记如何用剑……或游泳的剑鱼。"
+
+#. STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_A
+msgctxt "STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_A"
+msgid "What a fancy lobster! Looks expensive."
+msgstr "多精致的龙虾啊！看起来很贵。"

@@ -39,7 +39,10 @@ configuration_options={ --模组变量配置
 }
 
 mod_dependencies = {
-
+    {	
+       	--only have a workshop dependency
+        workshop = "workshop-2334209327",
+    },
 }
 
 icon_atlas = "ModiconHOF.xml"

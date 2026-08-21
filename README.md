@@ -4,7 +4,8 @@ kyno_pigcoin3 = blue coin
 
 
 Butter: 10 white coin
-Fire nettle and cold nettle: 2 white coin
+Fire nettle: 2 white coin
+cold nettle: 2 white coin
 Mandrake: 1 blue coin ( the expensive one)
 Shark meat: 1 green coin
 Poison frog leg: 20 white coin
@@ -21,3 +22,9 @@ Blue snail: 50 white coin
 Succulent: 1 white coin
 Worm bone: 5 white coin
 Alive salmon: 1 green coin
+Sap: 1 white coin
+Sword fish: 1 blue coin
+Chilled swordfish: 1 blue coin
+Fern: 1 white coin
+Electric milk: 20 white coin
+Hermit wobster: 1 blue coin
