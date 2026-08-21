@@ -14,20 +14,20 @@ local GOODS = {
     "kyno_moon_froglegs",
     "kyno_salmonfish",
     "kyno_sap",
-    "fern",
+    "foliage", -- 修正
     "butter",
     "kyno_poison_froglegs",
     "kyno_crabmeat",
-    "voltgoatmilk",
+    "goatmilk", -- 修正
     "kyno_piko",
     "kyno_piko_orange",
     "kyno_beanbugs",
     "kyno_limpets",
     "mandrake",
     "kyno_crabkingmeat",
-    "kyno_swordfish",
+    "kyno_swordfish_dead", -- 修正
     "kyno_swordfish_blue",
-    "wobster_monkeyisland",
+    "wobster_monkeyisland_land", -- 修正
 }
 
 local ADD_TO_WARES_ALWAYS = {}

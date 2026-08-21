@@ -43,7 +43,7 @@ msgstr ""
 
 #. STRINGS.RECIPE_DESC.KYNO_MOON_FROGLEGS_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_MOON_FROGLEGS_A"
-msgid "Bright Frog Legs."
+msgid "Frog legs infused with the Moon power."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.KYNO_SALMONFISH_A
@@ -56,9 +56,9 @@ msgctxt "STRINGS.RECIPE_DESC.KYNO_SAP_A"
 msgid "It tastes sweet."
 msgstr ""
 
-#. STRINGS.RECIPE_DESC.FERN_A
-msgctxt "STRINGS.RECIPE_DESC.FERN_A"
-msgid "It's a fern."
+#. STRINGS.RECIPE_DESC.FOLIAGE_A
+msgctxt "STRINGS.RECIPE_DESC.FOLIAGE_A"
+msgid "Some leafy greens."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.BUTTER_A
@@ -76,9 +76,9 @@ msgctxt "STRINGS.RECIPE_DESC.KYNO_CRABMEAT_A"
 msgid "No imitations here."
 msgstr ""
 
-#. STRINGS.RECIPE_DESC.VOLTGOATMILK_A
-msgctxt "STRINGS.RECIPE_DESC.VOLTGOATMILK_A"
-msgid "Milk from a Volt Goat."
+#. STRINGS.RECIPE_DESC.GOATMILK_A
+msgctxt "STRINGS.RECIPE_DESC.GOATMILK_A"
+msgid "It's buzzing with tastiness!"
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.KYNO_PIKO_A
@@ -111,9 +111,9 @@ msgctxt "STRINGS.RECIPE_DESC.KYNO_CRABKINGMEAT_A"
 msgid "No imitations here."
 msgstr ""
 
-#. STRINGS.RECIPE_DESC.KYNO_SWORDFISH_A
-msgctxt "STRINGS.RECIPE_DESC.KYNO_SWORDFISH_A"
-msgid "I think this fish evolved to run me through."
+#. STRINGS.RECIPE_DESC.KYNO_SWORDFISH_DEAD_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_SWORDFISH_DEAD_A"
+msgid "I better not touch this."
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.KYNO_SWORDFISH_BLUE_A
@@ -121,7 +121,7 @@ msgctxt "STRINGS.RECIPE_DESC.KYNO_SWORDFISH_BLUE_A"
 msgid "A swordfish that forgot how to sword... or swim."
 msgstr ""
 
-#. STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_A
-msgctxt "STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_A"
+#. STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_LAND_A
+msgctxt "STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_LAND_A"
 msgid "What a fancy lobster! Looks expensive."
 msgstr ""

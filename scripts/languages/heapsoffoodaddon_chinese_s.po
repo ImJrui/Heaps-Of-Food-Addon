@@ -47,8 +47,8 @@ msgstr "一种喜欢夜色掩护的好奇鲤鱼。"
 
 #. STRINGS.RECIPE_DESC.KYNO_MOON_FROGLEGS_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_MOON_FROGLEGS_A"
-msgid "Bright Frog Legs."
-msgstr "月光蛙腿。"
+msgid "Frog legs infused with the Moon power."
+msgstr "注入月之能量的青蛙腿。"
 
 #. STRINGS.RECIPE_DESC.KYNO_SALMONFISH_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_SALMONFISH_A"
@@ -60,10 +60,10 @@ msgctxt "STRINGS.RECIPE_DESC.KYNO_SAP_A"
 msgid "It tastes sweet."
 msgstr "它尝起来很甜。"
 
-#. STRINGS.RECIPE_DESC.FERN_A
-msgctxt "STRINGS.RECIPE_DESC.FERN_A"
-msgid "It's a fern."
-msgstr "它是一种蕨类植物。"
+#. STRINGS.RECIPE_DESC.FOLIAGE_A
+msgctxt "STRINGS.RECIPE_DESC.FOLIAGE_A"
+msgid "Some leafy greens."
+msgstr "一些多叶植物。"
 
 #. STRINGS.RECIPE_DESC.BUTTER_A
 msgctxt "STRINGS.RECIPE_DESC.BUTTER_A"
@@ -80,10 +80,10 @@ msgctxt "STRINGS.RECIPE_DESC.KYNO_CRABMEAT_A"
 msgid "No imitations here."
 msgstr "这里没有模仿。"
 
-#. STRINGS.RECIPE_DESC.VOLTGOATMILK_A
-msgctxt "STRINGS.RECIPE_DESC.VOLTGOATMILK_A"
-msgid "Milk from a Volt Goat."
-msgstr "电山羊的奶。"
+#. STRINGS.RECIPE_DESC.GOATMILK_A
+msgctxt "STRINGS.RECIPE_DESC.GOATMILK_A"
+msgid "It's buzzing with tastiness!"
+msgstr "美味，还滋滋作响！"
 
 #. STRINGS.RECIPE_DESC.KYNO_PIKO_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_PIKO_A"
@@ -115,17 +115,17 @@ msgctxt "STRINGS.RECIPE_DESC.KYNO_CRABKINGMEAT_A"
 msgid "No imitations here."
 msgstr "这里没有假货。"
 
-#. STRINGS.RECIPE_DESC.KYNO_SWORDFISH_A
-msgctxt "STRINGS.RECIPE_DESC.KYNO_SWORDFISH_A"
-msgid "I think this fish evolved to run me through."
-msgstr "我觉得这条鱼进化出来就是为了把我刺穿。"
+#. STRINGS.RECIPE_DESC.KYNO_SWORDFISH_DEAD_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_SWORDFISH_DEAD_A"
+msgid "I better not touch this."
+msgstr "我最好别碰这个。"
 
 #. STRINGS.RECIPE_DESC.KYNO_SWORDFISH_BLUE_A
 msgctxt "STRINGS.RECIPE_DESC.KYNO_SWORDFISH_BLUE_A"
 msgid "A swordfish that forgot how to sword... or swim."
 msgstr "一条忘记如何用剑……或游泳的剑鱼。"
 
-#. STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_A
-msgctxt "STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_A"
+#. STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_LAND_A
+msgctxt "STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_LAND_A"
 msgid "What a fancy lobster! Looks expensive."
 msgstr "多精致的龙虾啊！看起来很贵。"
