@@ -33,7 +33,7 @@ local GOODS = {
 local ADD_TO_WARES_ALWAYS = {}
 
 for _, good in ipairs(GOODS) do
-    ADD_TO_WARES_ALWAYS[good] = {recipe = "rebalance_deciduoustrader_"..good, min = 10, max = 20, limit = 20 }
+    ADD_TO_WARES_ALWAYS[good] = {recipe = "rebalance_deciduoustrader_"..good, min = 10, max = 20 --[[, limit = 20]] }
 end
 
 AddPrefabPostInit("kyno_deciduousforest_seller", function(inst)
