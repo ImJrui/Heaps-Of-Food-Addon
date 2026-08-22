@@ -125,3 +125,163 @@ msgstr ""
 msgctxt "STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_LAND_A"
 msgid "What a fancy lobster! Looks expensive."
 msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_CAVETUBER_BLOOMING_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_CAVETUBER_BLOOMING_A"
+msgid "This is a blooming tuber!"
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_TAROROOT_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_TAROROOT_A"
+msgid "It looks like a purple pepper."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_LOTUS_FLOWER_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_LOTUS_FLOWER_A"
+msgid "An adorable science flower."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_WATERYCRESS_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_WATERYCRESS_A"
+msgid "It's new."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_CHICKEN2_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_CHICKEN2_A"
+msgid "A bird used for poultry."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_CHICKEN_EGG_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_CHICKEN_EGG_A"
+msgid "A tiny chicken egg."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_TEALEAF_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_TEALEAF_A"
+msgid "Tea leaf."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_BRAINROCK_CORAL_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_BRAINROCK_CORAL_A"
+msgid "Food for thought."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_MUSSEL_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_MUSSEL_A"
+msgid "Could use some fire."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_FENNEL_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_FENNEL_A"
+msgid "It's like a carrot, but green."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.ICE_A
+msgctxt "STRINGS.RECIPE_DESC.ICE_A"
+msgid "Ice to meet you."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.HONEY_A
+msgctxt "STRINGS.RECIPE_DESC.HONEY_A"
+msgid "Looks delicious!"
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.BERRIES_A
+msgctxt "STRINGS.RECIPE_DESC.BERRIES_A"
+msgid "Red berries taste the best."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.BUTTERFLY_A
+msgctxt "STRINGS.RECIPE_DESC.BUTTERFLY_A"
+msgid "Butterfly, flutter by."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.PONDEEL_A
+msgctxt "STRINGS.RECIPE_DESC.PONDEEL_A"
+msgid "This will make a delicious meal."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_GROUPER_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_GROUPER_A"
+msgid "Surf and turf, catch the turf."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.JELLYBEAN_A
+msgctxt "STRINGS.RECIPE_DESC.JELLYBEAN_A"
+msgid "One part jelly, one part bean."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.LAVAE_EGG_A
+msgctxt "STRINGS.RECIPE_DESC.LAVAE_EGG_A"
+msgid "There's a faint warmth coming from inside."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.BEARGER_FUR_A
+msgctxt "STRINGS.RECIPE_DESC.BEARGER_FUR_A"
+msgid "A mat of thick fur."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.DEERCLOPS_EYEBALL_A
+msgctxt "STRINGS.RECIPE_DESC.DEERCLOPS_EYEBALL_A"
+msgid "This is really gross."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_KOKONUT_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_KOKONUT_A"
+msgid "This fruit must be hiding some secret under its armor!"
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_PINEAPPLE_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_PINEAPPLE_A"
+msgid "It needs a crack."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_HUMANMEAT_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_HUMANMEAT_A"
+msgid "Meat is meat, where do I take the first bite?"
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_JELLYFISH_DEAD_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_JELLYFISH_DEAD_A"
+msgid "It's doing fine. Maybe."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_JELLYFISH_RAINBOW_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_JELLYFISH_RAINBOW_A"
+msgid "A glob of colorful science."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.ANCIENTFRUIT_NIGHTVISION_A
+msgctxt "STRINGS.RECIPE_DESC.ANCIENTFRUIT_NIGHTVISION_A"
+msgid "I just wish it was less... twitchy."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_SYRUP_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_SYRUP_A"
+msgid "To sweeten food."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.KYNO_SUGARFLY_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_SUGARFLY_A"
+msgid "Sugar butterfly, floating by."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.MOONBUTTERFLY_A
+msgctxt "STRINGS.RECIPE_DESC.MOONBUTTERFLY_A"
+msgid "My vast scientific knowledge tells me it's... a moon butterfly."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.FIG_A
+msgctxt "STRINGS.RECIPE_DESC.FIG_A"
+msgid "I'll call it \"Newton's Fig\"."
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.CHOCOLATE_BLACK_A
+msgctxt "STRINGS.RECIPE_DESC.CHOCOLATE_BLACK_A"
+msgid "Chocolate"
+msgstr ""
+
+#. STRINGS.RECIPE_DESC.CHOCOLATE_WHITE_A
+msgctxt "STRINGS.RECIPE_DESC.CHOCOLATE_WHITE_A"
+msgid "White Chocolate"
+msgstr ""

@@ -129,3 +129,163 @@ msgstr "一条忘记如何用剑……或游泳的剑鱼。"
 msgctxt "STRINGS.RECIPE_DESC.WOBSTER_MONKEYISLAND_LAND_A"
 msgid "What a fancy lobster! Looks expensive."
 msgstr "多精致的龙虾啊！看起来很贵。"
+
+#. STRINGS.RECIPE_DESC.KYNO_CAVETUBER_BLOOMING_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_CAVETUBER_BLOOMING_A"
+msgid "This is a blooming tuber!"
+msgstr "这是开花的块茎！"
+
+#. STRINGS.RECIPE_DESC.KYNO_TAROROOT_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_TAROROOT_A"
+msgid "It looks like a purple pepper."
+msgstr "看起来像紫胡椒。"
+
+#. STRINGS.RECIPE_DESC.KYNO_LOTUS_FLOWER_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_LOTUS_FLOWER_A"
+msgid "An adorable science flower."
+msgstr "一朵可爱的科学花。"
+
+#. STRINGS.RECIPE_DESC.KYNO_WATERYCRESS_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_WATERYCRESS_A"
+msgid "It's new."
+msgstr "这是新的。"
+
+#. STRINGS.RECIPE_DESC.KYNO_CHICKEN2_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_CHICKEN2_A"
+msgid "A bird used for poultry."
+msgstr "一种用于家禽养殖的鸟类。"
+
+#. STRINGS.RECIPE_DESC.KYNO_CHICKEN_EGG_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_CHICKEN_EGG_A"
+msgid "A tiny chicken egg."
+msgstr "一枚小小的鸡蛋。"
+
+#. STRINGS.RECIPE_DESC.KYNO_TEALEAF_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_TEALEAF_A"
+msgid "Tea leaf."
+msgstr "茶叶。"
+
+#. STRINGS.RECIPE_DESC.KYNO_BRAINROCK_CORAL_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_BRAINROCK_CORAL_A"
+msgid "Food for thought."
+msgstr "值得深思。"
+
+#. STRINGS.RECIPE_DESC.KYNO_MUSSEL_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_MUSSEL_A"
+msgid "Could use some fire."
+msgstr "可以使用一些火。"
+
+#. STRINGS.RECIPE_DESC.KYNO_FENNEL_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_FENNEL_A"
+msgid "It's like a carrot, but green."
+msgstr "它像胡萝卜，但是是绿色的。"
+
+#. STRINGS.RECIPE_DESC.ICE_A
+msgctxt "STRINGS.RECIPE_DESC.ICE_A"
+msgid "Ice to meet you."
+msgstr "见到你很凉快。"
+
+#. STRINGS.RECIPE_DESC.HONEY_A
+msgctxt "STRINGS.RECIPE_DESC.HONEY_A"
+msgid "Looks delicious!"
+msgstr "看起来很好吃！"
+
+#. STRINGS.RECIPE_DESC.BERRIES_A
+msgctxt "STRINGS.RECIPE_DESC.BERRIES_A"
+msgid "Red berries taste the best."
+msgstr "红色浆果最好吃。"
+
+#. STRINGS.RECIPE_DESC.BUTTERFLY_A
+msgctxt "STRINGS.RECIPE_DESC.BUTTERFLY_A"
+msgid "Butterfly, flutter by."
+msgstr "蝴蝶，扑扑翅膀飞走了。"
+
+#. STRINGS.RECIPE_DESC.PONDEEL_A
+msgctxt "STRINGS.RECIPE_DESC.PONDEEL_A"
+msgid "This will make a delicious meal."
+msgstr "这能做一道好菜。"
+
+#. STRINGS.RECIPE_DESC.KYNO_GROUPER_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_GROUPER_A"
+msgid "Surf and turf, catch the turf."
+msgstr "冲浪和草皮，抓住草皮。"
+
+#. STRINGS.RECIPE_DESC.JELLYBEAN_A
+msgctxt "STRINGS.RECIPE_DESC.JELLYBEAN_A"
+msgid "One part jelly, one part bean."
+msgstr "一部分是果冻，一部分是豌豆。"
+
+#. STRINGS.RECIPE_DESC.LAVAE_EGG_A
+msgctxt "STRINGS.RECIPE_DESC.LAVAE_EGG_A"
+msgid "There's a faint warmth coming from inside."
+msgstr "里面传来微弱的暖意。"
+
+#. STRINGS.RECIPE_DESC.BEARGER_FUR_A
+msgctxt "STRINGS.RECIPE_DESC.BEARGER_FUR_A"
+msgid "A mat of thick fur."
+msgstr "一块厚毛皮。"
+
+#. STRINGS.RECIPE_DESC.DEERCLOPS_EYEBALL_A
+msgctxt "STRINGS.RECIPE_DESC.DEERCLOPS_EYEBALL_A"
+msgid "This is really gross."
+msgstr "这真的很恶心。"
+
+#. STRINGS.RECIPE_DESC.KYNO_KOKONUT_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_KOKONUT_A"
+msgid "This fruit must be hiding some secret under its armor!"
+msgstr "这种水果必须在它的盔甲下隐藏什么秘密？"
+
+#. STRINGS.RECIPE_DESC.KYNO_PINEAPPLE_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_PINEAPPLE_A"
+msgid "It needs a crack."
+msgstr "它需要一个裂缝。"
+
+#. STRINGS.RECIPE_DESC.KYNO_HUMANMEAT_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_HUMANMEAT_A"
+msgid "Meat is meat, where do I take the first bite?"
+msgstr "肉就是肉，我该在哪里下嘴？"
+
+#. STRINGS.RECIPE_DESC.KYNO_JELLYFISH_DEAD_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_JELLYFISH_DEAD_A"
+msgid "It's doing fine. Maybe."
+msgstr "它过得挺好。也许吧。"
+
+#. STRINGS.RECIPE_DESC.KYNO_JELLYFISH_RAINBOW_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_JELLYFISH_RAINBOW_A"
+msgid "A glob of colorful science."
+msgstr "一团五彩斑斓的科学。"
+
+#. STRINGS.RECIPE_DESC.ANCIENTFRUIT_NIGHTVISION_A
+msgctxt "STRINGS.RECIPE_DESC.ANCIENTFRUIT_NIGHTVISION_A"
+msgid "I just wish it was less... twitchy."
+msgstr "要是能少……抽搐一点就好了。"
+
+#. STRINGS.RECIPE_DESC.KYNO_SYRUP_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_SYRUP_A"
+msgid "To sweeten food."
+msgstr "为食品添加甜味。"
+
+#. STRINGS.RECIPE_DESC.KYNO_SUGARFLY_A
+msgctxt "STRINGS.RECIPE_DESC.KYNO_SUGARFLY_A"
+msgid "Sugar butterfly, floating by."
+msgstr "糖蝴蝶，飘过。"
+
+#. STRINGS.RECIPE_DESC.MOONBUTTERFLY_A
+msgctxt "STRINGS.RECIPE_DESC.MOONBUTTERFLY_A"
+msgid "My vast scientific knowledge tells me it's... a moon butterfly."
+msgstr "我渊博的科学知识告诉我，这是一只月光蝴蝶。"
+
+#. STRINGS.RECIPE_DESC.FIG_A
+msgctxt "STRINGS.RECIPE_DESC.FIG_A"
+msgid "I'll call it \"Newton's Fig\"."
+msgstr "我管它叫"牛顿的无花果"。"
+
+#. STRINGS.RECIPE_DESC.CHOCOLATE_BLACK_A
+msgctxt "STRINGS.RECIPE_DESC.CHOCOLATE_BLACK_A"
+msgid "Chocolate"
+msgstr "黑巧克力"
+
+#. STRINGS.RECIPE_DESC.CHOCOLATE_WHITE_A
+msgctxt "STRINGS.RECIPE_DESC.CHOCOLATE_WHITE_A"
+msgid "White Chocolate"
+msgstr "白巧克力"

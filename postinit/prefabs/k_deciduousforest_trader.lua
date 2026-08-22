@@ -28,6 +28,40 @@ local GOODS = {
     "kyno_swordfish_dead", -- 修正
     "kyno_swordfish_blue",
     "wobster_monkeyisland_land", -- 修正
+
+    -- New items (README.md line 32-63)
+    "kyno_cavetuber_blooming",
+    "kyno_taroroot",
+    "kyno_lotus_flower",
+    "kyno_waterycress",
+    "kyno_chicken2",
+    "kyno_chicken_egg",
+    "kyno_tealeaf",
+    "kyno_brainrock_coral",
+    "kyno_mussel",
+    "kyno_fennel",
+    "ice",
+    "honey",
+    "berries",
+    "butterfly",
+    "pondeel",
+    "kyno_grouper",
+    "jellybean",
+    "lavae_egg",
+    "bearger_fur",
+    "deerclops_eyeball",
+    "kyno_kokonut",
+    "kyno_pineapple",
+    "kyno_humanmeat",
+    "kyno_jellyfish_dead",
+    "kyno_jellyfish_rainbow",
+    "ancientfruit_nightvision",
+    "kyno_syrup",
+    "kyno_sugarfly",
+    "moonbutterfly",
+    "fig",
+    "chocolate_black",
+    "chocolate_white",
 }
 
 local ADD_TO_WARES_ALWAYS = {}
