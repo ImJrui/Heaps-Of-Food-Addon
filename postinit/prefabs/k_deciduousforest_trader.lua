@@ -6,7 +6,7 @@ local rebalance_recipes = require("rebalance_recipes")
 
 local ADD_TO_WARES_ALWAYS = {}
 
-for good, _ in ipairs(rebalance_recipes) do
+for good, _ in pairs(rebalance_recipes) do
     ADD_TO_WARES_ALWAYS[good] = {recipe = "rebalance_deciduoustrader_"..good, min = 10, max = 20 --[[, limit = 20]] }
 end
 
@@ -19,6 +19,7 @@ AddPrefabPostInit("kyno_deciduousforest_seller", function(inst)
         if inst.WARES and inst.WARES.ALWAYS and inst.WARES.ALWAYS[1] then
             if not inst.WARES.ALWAYS[1][prefab] then
                 inst.WARES.ALWAYS[1][prefab] = waredata
+                print("Added "..prefab.." to kyno_deciduousforest_seller")
             end
 			if not waredata.limit then
                 inst.FORGETABLE_RECIPES = inst.FORGETABLE_RECIPES or {}
