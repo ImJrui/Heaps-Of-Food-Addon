@@ -45,7 +45,7 @@ return {
         BUTTERFLY_A = "Butterfly, flutter by.",
         PONDEEL_A = "This will make a delicious meal.",
         KYNO_GROUPER_A = "Surf and turf, hold the turf.",
-        JELLYBEAN_A = "One part jelly, one part bean.",
+        ROYAL_JELLY_A = "It infuses the eater with the power of science!",
         LAVAE_EGG_A = "There's a faint warmth coming from inside.",
         BEARGER_FUR_A = "A mat of thick fur.",
         DEERCLOPS_EYEBALL_A = "This is really gross.",

@@ -21,6 +21,7 @@ AddPrefabPostInit("kyno_deciduousforest_seller", function(inst)
                 inst.WARES.ALWAYS[1][prefab] = waredata
             end
 			if not waredata.limit then
+                inst.FORGETABLE_RECIPES = inst.FORGETABLE_RECIPES or {}
 				inst.FORGETABLE_RECIPES[waredata.recipe] = true
 			end
         end

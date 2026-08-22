@@ -210,10 +210,10 @@ msgctxt "STRINGS.RECIPE_DESC.KYNO_GROUPER_A"
 msgid "Surf and turf, catch the turf."
 msgstr "冲浪和草皮，抓住草皮。"
 
-#. STRINGS.RECIPE_DESC.JELLYBEAN_A
-msgctxt "STRINGS.RECIPE_DESC.JELLYBEAN_A"
-msgid "One part jelly, one part bean."
-msgstr "一部分是果冻，一部分是豌豆。"
+#. STRINGS.RECIPE_DESC.ROYAL_JELLY_A
+msgctxt "STRINGS.RECIPE_DESC.ROYAL_JELLY_A"
+msgid "It infuses the eater with the power of science!"
+msgstr "它给捕食者灌输了科学的力量！"
 
 #. STRINGS.RECIPE_DESC.LAVAE_EGG_A
 msgctxt "STRINGS.RECIPE_DESC.LAVAE_EGG_A"

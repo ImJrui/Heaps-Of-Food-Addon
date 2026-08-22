@@ -206,9 +206,9 @@ msgctxt "STRINGS.RECIPE_DESC.KYNO_GROUPER_A"
 msgid "Surf and turf, catch the turf."
 msgstr ""
 
-#. STRINGS.RECIPE_DESC.JELLYBEAN_A
-msgctxt "STRINGS.RECIPE_DESC.JELLYBEAN_A"
-msgid "One part jelly, one part bean."
+#. STRINGS.RECIPE_DESC.ROYAL_JELLY_A
+msgctxt "STRINGS.RECIPE_DESC.ROYAL_JELLY_A"
+msgid "It infuses the eater with the power of science!"
 msgstr ""
 
 #. STRINGS.RECIPE_DESC.LAVAE_EGG_A

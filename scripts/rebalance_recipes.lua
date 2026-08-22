@@ -43,7 +43,7 @@ local REBALANCE_RECIPES = {
     butterfly                    = {ingredients = {kyno_pigcoin1 = 1}},
     pondeel                      = {ingredients = {kyno_pigcoin1 = 2}},
     kyno_grouper                 = {ingredients = {kyno_pigcoin1 = 2}},
-    jellybean                    = {ingredients = {kyno_pigcoin3 = 1}},
+    royal_jelly                  = {ingredients = {kyno_pigcoin3 = 1}},
     lavae_egg                    = {ingredients = {kyno_pigcoin3 = 1}},
     bearger_fur                  = {ingredients = {kyno_pigcoin3 = 1}},
     deerclops_eyeball            = {ingredients = {kyno_pigcoin3 = 1}},
