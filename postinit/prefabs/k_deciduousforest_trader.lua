@@ -2,71 +2,11 @@ local AddPrefabPostInit = AddPrefabPostInit
 
 GLOBAL.setfenv(1, GLOBAL)
 
-local GOODS = {
-    "firenettles",
-    "kyno_icenettles",
-    "kyno_twiggynuts",
-    "drumstick",
-    "succulent_picked",
-    "kyno_worm_bone",
-    "kyno_shark_fin",
-    "oceanfish_midnight_carp_inv",
-    "kyno_moon_froglegs",
-    "kyno_salmonfish",
-    "kyno_sap",
-    "foliage", -- 修正
-    "butter",
-    "kyno_poison_froglegs",
-    "kyno_crabmeat",
-    "goatmilk", -- 修正
-    "kyno_piko",
-    "kyno_piko_orange",
-    "kyno_beanbugs",
-    "kyno_limpets",
-    "mandrake",
-    "kyno_crabkingmeat",
-    "kyno_swordfish_dead", -- 修正
-    "kyno_swordfish_blue",
-    "wobster_monkeyisland_land", -- 修正
-
-    -- New items (README.md line 32-63)
-    "kyno_cavetuber_blooming",
-    "kyno_taroroot",
-    "kyno_lotus_flower",
-    "kyno_waterycress",
-    "kyno_chicken2",
-    "kyno_chicken_egg",
-    "kyno_tealeaf",
-    "kyno_brainrock_coral",
-    "kyno_mussel",
-    "kyno_fennel",
-    "ice",
-    "honey",
-    "berries",
-    "butterfly",
-    "pondeel",
-    "kyno_grouper",
-    "jellybean",
-    "lavae_egg",
-    "bearger_fur",
-    "deerclops_eyeball",
-    "kyno_kokonut",
-    "kyno_pineapple",
-    "kyno_humanmeat",
-    "kyno_jellyfish_dead",
-    "kyno_jellyfish_rainbow",
-    "ancientfruit_nightvision",
-    "kyno_syrup",
-    "kyno_sugarfly",
-    "moonbutterfly",
-    "fig",
-    "chocolate_black",
-    "chocolate_white",
-}
+local rebalance_recipes = require("rebalance_recipes")
 
 local ADD_TO_WARES_ALWAYS = {}
 
-for _, good in ipairs(GOODS) do
+for good, _ in ipairs(rebalance_recipes) do
     ADD_TO_WARES_ALWAYS[good] = {recipe = "rebalance_deciduoustrader_"..good, min = 10, max = 20 --[[, limit = 20]] }
 end
 
