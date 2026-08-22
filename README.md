@@ -3,28 +3,61 @@ kyno_pigcoin2 = green coin
 kyno_pigcoin3 = blue coin
 
 
-Butter: 10 white coin
-Fire nettle: 2 white coin
-cold nettle: 2 white coin
-Mandrake: 1 blue coin ( the expensive one)
-Shark meat: 1 green coin
-Poison frog leg: 20 white coin
-Nuts: 2 white coin
-Yellow piko: 50 white coin
-Black piko: 50 white coin
-Crab meat : 20 white coin
-Crab king meat: 1 blue coin
-Midnight fish: 1 green coin
-Drumstick: 2 white coin
-Bright frog leg: 1 green coin
-Bean bugs: 30 white coin
-Blue snail: 50 white coin
-Succulent: 1 white coin
-Worm bone: 5 white coin
-Alive salmon: 1 green coin
-Sap: 1 white coin
-Sword fish: 1 blue coin
-Chilled swordfish: 1 blue coin
-Fern: 1 white coin
-Electric milk: 20 white coin
-Hermit wobster: 1 blue coin
+Butter: 5 white coin (butter)
+Fire nettle: 2 white coin (firenettles)
+cold nettle: 2 white coin (kyno_icenettles)
+Mandrake: 1 blue coin (mandrake) ( the expensive one)
+Shark meat: 1 green coin (kyno_shark_fin)
+Poison frog leg: 5 white coin (kyno_poison_froglegs)
+Nuts: 2 white coin (kyno_twiggynuts)
+Yellow piko: 5 white coin (kyno_piko)
+Black piko: 5 white coin (kyno_piko_orange)
+Crab meat : 5 white coin (kyno_crabmeat)
+Crab king meat: 1 blue coin (kyno_crabkingmeat)
+Midnight fish: 1 green coin (oceanfish_midnight_carp_inv)
+Drumstick: 2 white coin (drumstick)
+Bright frog leg: 1 green coin (kyno_moon_froglegs)
+Bean bugs: 2 white coin (kyno_beanbugs)
+Blue snail: 5 white coin (kyno_limpets)
+Succulent: 1 white coin (succulent_picked)
+Worm bone: 5 white coin (kyno_worm_bone)
+Alive salmon: 1 green coin (kyno_salmonfish)
+Sap: 1 white coin (kyno_sap)
+Sword fish: 1 blue coin (kyno_swordfish_dead)
+Chilled swordfish: 1 blue coin (kyno_swordfish_blue)
+Fern: 1 white coin (foliage)
+Electric milk: 2 white coin (goatmilk)
+Hermit wobster: 1 blue coin (wobster_monkeyisland_land)
+<!-- new -->
+Blooming tube cave: 2 white coin (kyno_cavetuber_blooming)
+Taro root: 2 white coin (kyno_taroroot)
+Lotus: 2 white coin (kyno_lotus_flower)
+Watercress: 2 white coin (kyno_waterycress)
+Chicken: 5 white coin (kyno_chicken2)
+Egg chicken: 2 white coin (kyno_chicken_egg)
+Tea leaves: 1 white coin (kyno_tealeaf)
+Brainy matter: 1 blue coin (kyno_brainrock_coral)
+Mussel: 1 white coin (kyno_mussel)
+Fennel: 2 white coin (kyno_fennel)
+Ice: 1 white coin (ice)
+Honey: 1 white coin (honey)
+Berry: 1 white coin (berries)
+Coconut: 1 white coin (kyno_kokonut)
+Pineapple: 2 white coin (kyno_pineapple)
+Long pig: 2 white coin (kyno_humanmeat)
+Dead jellyfish: 1 white coin (kyno_jellyfish_dead)
+Rainbow jellyfish: 2 white coin (kyno_jellyfish_rainbow)
+night berry: 5 white coin (ancientfruit_nightvision)
+Live eel: 2 white coin (pondeel)
+Purple grouper fish: 2 white coin (kyno_grouper)
+Jellybean: 1 blue coin (jellybean)
+Lava egg: 1 blue coin (lavae_egg)
+Bearger fur: 1 blue coin (bearger_fur)
+Eyeball: 1 blue coin (deerclops_eyeball)
+Syrup: 2 white coin (kyno_syrup)
+Chocolate: 2 white coin (chocolate_black)
+White chocolate: 3 white coin (chocolate_white)
+Butterfly: 1 white coin (butterfly)
+Sweet butterfly: 1 white coin (kyno_sugarfly)
+Moon butterfly: 1 white coin (moonbutterfly)
+Fig: 2 white coin (fig)
