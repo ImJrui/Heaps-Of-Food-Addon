@@ -6,8 +6,21 @@ local rebalance_recipes = require("rebalance_recipes")
 
 local ADD_TO_WARES_ALWAYS = {}
 
-for good, _ in pairs(rebalance_recipes) do
-    ADD_TO_WARES_ALWAYS[good] = {recipe = "rebalance_deciduoustrader_"..good, min = 10, max = 20 --[[, limit = 20]] }
+for good, data in pairs(rebalance_recipes) do
+    local ings = data.ingredients
+    local min = 0
+    local max = 0
+    if ings.kyno_pigcoin3 then
+        min = 5
+        max = 10
+    elseif ings.kyno_pigcoin2 then
+        min = 5
+        max = 15
+    elseif ings.kyno_pigcoin1 then
+        min = 10
+        max = 20
+    end
+    ADD_TO_WARES_ALWAYS[good] = {recipe = "rebalance_deciduoustrader_"..good, min = min, max = max --[[, limit = 20]] }
 end
 
 AddPrefabPostInit("kyno_deciduousforest_seller", function(inst)

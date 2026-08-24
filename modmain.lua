@@ -9,6 +9,9 @@ modimport("main/toolutil")
 -- at AddSimPostInit time (after parent mod's kyno_* DESCRIBE entries land).
 modimport("main/strings")
 
+-- Auto-fills missing STRINGS.RECIPE_DESC.<KEY>_A from WILSON.DESCRIBE / NAMES.
+modimport("postinit/strings")
+
 -- Registers Partitio barter recipes (18 AddRecipe2 calls).
 modimport("postinit/recipes")
 
