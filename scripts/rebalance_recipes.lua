@@ -1,16 +1,18 @@
--- scripts/rebalance_recipes.lua
--- Single source of truth for all Partitio barter prices.
--- Keyed by product prefab name. Each entry specifies the coin ingredients.
---
--- Consumed by postinit/recipes.lua via require("rebalance_recipes").
--- Companion file postinit/prefabs/k_deciduousforest_trader.lua must also list
--- the same prefabs in its GOODS table so the craftingstation LearnItem()s them.
+--[[
+If you want to modify the item quantity or price, you can edit this file.
+min is the minimum amount replenished daily, and max is the maximum amount replenished daily.
+limit is the upper cap on the item quantity. If you fill in a value for limit, any unsold items from the day will carry over to the next day.
+
+For example:
+firenettles = {ingredients = {kyno_pigcoin1 = 2}, min = 10, max = 20, limit = 30}
+Each day, the stock will increase by 10–20 items on top of the existing inventory, until the total reaches 30.
+
+However, if you omit limit – for example:
+firenettles = {ingredients = {kyno_pigcoin1 = 2}, min = 10, max = 20}
+– the daily stock will be reset to a random number between 10 and 20 each day, without any accumulation.
+]]
 
 local REBALANCE_RECIPES = {
-    -- =============================================================
-    -- Original 24 items (README.md line 6-30, minus wobster_monkeyisland_land
-    -- which is duplicated in new2 section and now lives there)
-    -- =============================================================
 
     firenettles                  = {ingredients = {kyno_pigcoin1 = 2}},
     kyno_icenettles              = {ingredients = {kyno_pigcoin1 = 2}},
@@ -37,10 +39,6 @@ local REBALANCE_RECIPES = {
     kyno_swordfish_dead          = {ingredients = {kyno_pigcoin3 = 1}},
     kyno_swordfish_blue          = {ingredients = {kyno_pigcoin3 = 1}},
 
-    -- =============================================================
-    -- 30 new items (README.md line 32-63, kyno_kokonut and ancientfruit_nightvision
-    -- moved to new2 section because they have updated prefabs)
-    -- =============================================================
     kyno_cavetuber_blooming      = {ingredients = {kyno_pigcoin1 = 2}},
     kyno_taroroot                = {ingredients = {kyno_pigcoin1 = 2}},
     kyno_lotus_flower            = {ingredients = {kyno_pigcoin1 = 2}},
@@ -72,11 +70,6 @@ local REBALANCE_RECIPES = {
     chocolate_black              = {ingredients = {kyno_pigcoin1 = 2}},
     chocolate_white              = {ingredients = {kyno_pigcoin1 = 3}},
 
-    -- =============================================================
-    -- 33 new2 items (README.md line 66-99, latest source of truth)
-    -- wobster_monkeyisland_land is here (was in original section)
-    -- kyno_kokonut and ancientfruit_nightvision are here (updated prefabs)
-    -- =============================================================
     wobster_monkeyisland_land    = {ingredients = {kyno_pigcoin3 = 1}},
     kyno_banana                  = {ingredients = {kyno_pigcoin1 = 1}},
     kyno_kokonut                 = {ingredients = {kyno_pigcoin1 = 1}},
