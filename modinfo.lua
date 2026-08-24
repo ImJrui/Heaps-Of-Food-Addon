@@ -9,7 +9,7 @@ end
 name = translate({en = "Heap Of Foods Addon", zh = "HOP补丁"})
 
 --A version number so you can ask people if they are running an old version of your mod.
-version = "v1.0.5"
+version = "v1.0.6"
 
 --A description of the mod.
 description = "version "..version
