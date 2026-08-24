@@ -18,3 +18,4 @@ modimport("postinit/recipes")
 -- Hooks kyno_deciduousforest_seller via AddPrefabPostInit to register
 -- WARES rows matching the recipes above (required for LearnItem to fire).
 modimport("postinit/prefabs/k_deciduousforest_trader")
+modimport("postinit/prefabs/brewerable")
