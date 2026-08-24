@@ -8,8 +8,9 @@ local ADD_TO_WARES_ALWAYS = {}
 
 for good, data in pairs(rebalance_recipes) do
     local ings = data.ingredients
-    local min, max, limit = 1, 1, nil
+    local min, max, limit = 10, 20, nil
 
+    --[[
     if ings.kyno_pigcoin3 then
         min = 1
         max = 10
@@ -20,6 +21,7 @@ for good, data in pairs(rebalance_recipes) do
         min = 10
         max = 20
     end
+    ]]
 
     min = data.min or min
     max = data.max or max
