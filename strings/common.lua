@@ -2,6 +2,7 @@ GLOBAL.setfenv(1, GLOBAL)
 
 return {
     RECIPE_DESC = {
+        --[[
         FIRENETTLES_A = "If you can't stand the heat, stay out of the garden.",
         KYNO_ICENETTLES_A = "The Garden is giving us a cold reception.",
         KYNO_TWIGGYNUTS_A = "A bunch of nuts.",
@@ -61,5 +62,6 @@ return {
         FIG_A = "I'll call it \"Newton's Fig\".",
         CHOCOLATE_BLACK_A = "Chocolate",
         CHOCOLATE_WHITE_A = "White Chocolate",
+        ]]
     },
 }

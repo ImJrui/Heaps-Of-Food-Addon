@@ -17,24 +17,23 @@ for prefab, _ in pairs(rebalance_recipes) do
     local upper = string.upper(prefab)
     local key = upper .. "_A"
 
-    -- Skip if main/strings.lua already provided an English default.
     if not STRINGS.RECIPE_DESC[key] then
         local desc
 
-        -- 1. Try WILSON.DESCRIBE.<KEY> (parent mod's per-character inspect text)
-        if STRINGS.CHARACTERS.GENERIC.DESCRIBE[upper] then
-            desc = STRINGS.CHARACTERS.GENERIC.DESCRIBE[upper]
-        elseif STRINGS.CHARACTERS and STRINGS.CHARACTERS.WILSON
-            and STRINGS.CHARACTERS.WILSON.DESCRIBE and STRINGS.CHARACTERS.WILSON.DESCRIBE[upper]
-        then
-            desc = STRINGS.CHARACTERS.WILSON.DESCRIBE[upper]
-        -- 2. Fall back to NAMES.<KEY> (vanilla DST display name)
-        elseif STRINGS.NAMES and STRINGS.NAMES[upper] then
-            desc = STRINGS.NAMES[upper]
+        prefab = upper:gsub("_INV$", ""):gsub("_LAND$", "")
+
+        local WILSON = STRINGS.CHARACTERS.WILSON
+        local DESCRIBE = STRINGS.CHARACTERS.GENERIC.DESCRIBE[prefab]
+                        or (WILSON and WILSON.DESCRIBE and WILSON.DESCRIBE[prefab])
+                        or STRINGS.NAMES[prefab] or prefab
+
+        if type(DESCRIBE) == "table" then
+            local k, v = next(DESCRIBE)
+            desc = DESCRIBE.GENERIC or tostring(v)
+        else
+            desc = tostring(DESCRIBE)
         end
 
-        if desc then
-            STRINGS.RECIPE_DESC[key] = desc
-        end
+        STRINGS.RECIPE_DESC[key] = desc
     end
 end
