@@ -1,3 +1,8 @@
+```
+[url=https://github.com/ImJrui/Heaps-Of-Food-Addon] GitHub link [/url]
+
+Add some goods to Partitio's Warehouse
+
 kyno_pigcoin1 = white coin
 kyno_pigcoin2 = green coin
 kyno_pigcoin3 = blue coin
@@ -95,3 +100,4 @@ Parsnip: 1 white coin (kyno_parznip)
 Sea cucumber: 1 white coin (kyno_cucumber)
 Bread: 2 white coin (littlebread)
 Juicy berry: 1 white coin (berries_juicy)
+```
