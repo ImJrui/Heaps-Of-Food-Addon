@@ -8,10 +8,11 @@ local ADD_TO_WARES_ALWAYS = {}
 
 for good, data in pairs(rebalance_recipes) do
     local ings = data.ingredients
-    local min = 0
-    local max = 0
+    local min = 1
+    local max = 1
+    local limit = nil
     if ings.kyno_pigcoin3 then
-        min = 5
+        min = 1
         max = 10
     elseif ings.kyno_pigcoin2 then
         min = 5
@@ -20,7 +21,16 @@ for good, data in pairs(rebalance_recipes) do
         min = 10
         max = 20
     end
-    ADD_TO_WARES_ALWAYS[good] = {recipe = "rebalance_deciduoustrader_"..good, min = min, max = max --[[, limit = 20]] }
+    if data.min then
+        min = min
+    end
+    if data.max then
+        max = max
+    end
+    if data.limit then
+        limit = limit
+    end
+    ADD_TO_WARES_ALWAYS[good] = {recipe = "rebalance_deciduoustrader_"..good, min = min, max = max , limit = limit }
 end
 
 AddPrefabPostInit("kyno_deciduousforest_seller", function(inst)
