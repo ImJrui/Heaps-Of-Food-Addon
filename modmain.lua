@@ -2,6 +2,8 @@
 -- All files must be imported explicitly — there is no auto-loading for
 -- postinit/ or any other directory.
 
+modimport("main/constants")
+
 -- Utility helpers (MergeTable, IsArray).
 modimport("main/toolutil")
 

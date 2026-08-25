@@ -43,7 +43,7 @@ configuration_options={ --模组变量配置
 		}),
 		label = en_zh({en = "Brew Time Multiplier", zh = "酿造时间倍数"}),
 		options = {
-			{description = en_zh({en = "Default", zh = "默认"}), data = 1},
+			{description = "1", data = 1},
 			{description = "0.9", data = .9},
 			{description = "0.8", data = .8},
 			{description = "0.7", data = .7},
@@ -53,8 +53,9 @@ configuration_options={ --模组变量配置
 			{description = "0.3", data = .3},
 			{description = "0.2", data = .2},
 			{description = "0.1", data = .1},
+			{description = "0.05", data = .05},
 		},
-		default = 1,
+		default = .05,
 	},
 }
 
