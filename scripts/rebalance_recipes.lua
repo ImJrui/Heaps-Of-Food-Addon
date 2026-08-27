@@ -104,6 +104,13 @@ local REBALANCE_RECIPES = {
     kyno_cucumber                = {ingredients = {kyno_pigcoin1 = 1}},
     littlebread                  = {ingredients = {kyno_pigcoin1 = 2}},
     berries_juicy                = {ingredients = {kyno_pigcoin1 = 1}},
+
+    kyno_opalpreciouspowder      = {ingredients = {kyno_pigcoin3 = 1}},
+    kyno_blubber                 = {ingredients = {kyno_pigcoin2 = 1}},
+    kyno_salt                    = {ingredients = {kyno_pigcoin1 = 1}},
+    kyno_gummybug                = {ingredients = {kyno_pigcoin2 = 1}},
+    kyno_seaweeds                = {ingredients = {kyno_pigcoin1 = 1}},
+    oceanfish_medium_4_inv       = {ingredients = {kyno_pigcoin2 = 1}},
 }
 
 return REBALANCE_RECIPES
