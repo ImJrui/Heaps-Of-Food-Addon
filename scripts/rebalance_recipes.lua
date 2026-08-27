@@ -111,6 +111,7 @@ local REBALANCE_RECIPES = {
     kyno_gummybug                = {ingredients = {kyno_pigcoin2 = 1}},
     kyno_seaweeds                = {ingredients = {kyno_pigcoin1 = 1}},
     oceanfish_medium_4_inv       = {ingredients = {kyno_pigcoin2 = 1}},
+    milkywhites                  = {ingredients = {kyno_pigcoin2 = 1}},
 }
 
 return REBALANCE_RECIPES
