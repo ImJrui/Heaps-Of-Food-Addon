@@ -1,10 +1,11 @@
 [url=https://github.com/ImJrui/Heaps-Of-Food-Addon] GitHub link [/url]
 
 Add some goods to Partitio's Warehouse
-
+```
 kyno_pigcoin1 = white coin
 kyno_pigcoin2 = green coin
 kyno_pigcoin3 = blue coin
+```
 
 *numtogive = number of items given per purchase
 
