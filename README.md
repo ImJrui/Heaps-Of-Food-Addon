@@ -1,4 +1,3 @@
-```
 [url=https://github.com/ImJrui/Heaps-Of-Food-Addon] GitHub link [/url]
 
 Add some goods to Partitio's Warehouse
@@ -7,97 +6,97 @@ kyno_pigcoin1 = white coin
 kyno_pigcoin2 = green coin
 kyno_pigcoin3 = blue coin
 
+*numtogive = number of items given per purchase
 
-Butter: 5 white coin (butter)
-Fire nettle: 2 white coin (firenettles)
-cold nettle: 2 white coin (kyno_icenettles)
-Mandrake: 1 blue coin (mandrake) ( the expensive one)
-Shark meat: 1 green coin (kyno_shark_fin)
-Poison frog leg: 5 white coin (kyno_poison_froglegs)
-Nuts: 2 white coin (kyno_twiggynuts)
-Yellow piko: 5 white coin (kyno_piko)
-Black piko: 5 white coin (kyno_piko_orange)
-Crab meat : 5 white coin (kyno_crabmeat)
-Crab king meat: 1 blue coin (kyno_crabkingmeat)
-Midnight fish: 1 green coin (oceanfish_midnight_carp_inv)
-Drumstick: 2 white coin (drumstick)
-Bright frog leg: 1 green coin (kyno_moon_froglegs)
-Bean bugs: 2 white coin (kyno_beanbugs)
-Blue snail: 5 white coin (kyno_limpets)
-Succulent: 1 white coin (succulent_picked)
-Worm bone: 5 white coin (kyno_worm_bone)
-Alive salmon: 1 green coin (kyno_salmonfish)
-Sap: 1 white coin (kyno_sap)
-Sword fish: 1 blue coin (kyno_swordfish_dead)
-Chilled swordfish: 1 blue coin (kyno_swordfish_blue)
-Fern: 1 white coin (foliage)
-Electric milk: 2 white coin (goatmilk)
-Hermit wobster: 1 blue coin (wobster_monkeyisland_land)
-<!-- new -->
-Blooming tube cave: 2 white coin (kyno_cavetuber_blooming)
-Taro root: 2 white coin (kyno_taroroot)
-Lotus: 2 white coin (kyno_lotus_flower)
-Watercress: 2 white coin (kyno_waterycress)
-Chicken: 5 white coin (kyno_chicken2)
-Egg chicken: 2 white coin (kyno_chicken_egg)
-Tea leaves: 1 white coin (kyno_tealeaf)
-Brainy matter: 1 blue coin (kyno_brainrock_coral)
-Mussel: 1 white coin (kyno_mussel)
-Fennel: 2 white coin (kyno_fennel)
-Ice: 1 white coin (ice)
-Honey: 1 white coin (honey)
-Berry: 1 white coin (berries)
-Pineapple: 2 white coin (kyno_pineapple)
-Long pig: 1 white coin (kyno_humanmeat)
-Dead jellyfish: 1 white coin (kyno_jellyfish_dead)
-Rainbow jellyfish: 2 white coin (kyno_jellyfish_rainbow)
-Live eel: 2 white coin (pondeel)
-Purple grouper fish: 2 white coin (kyno_grouper)
-Royal Jelly: 1 blue coin (royal_jelly)
-Lava egg: 1 blue coin (lavae_egg)
-Bearger fur: 1 blue coin (bearger_fur)
-Eyeball: 1 blue coin (deerclops_eyeball)
-Syrup: 2 white coin (kyno_syrup)
-Chocolate: 2 white coin (chocolate_black)
-White chocolate: 3 white coin (chocolate_white)
-Butterfly: 1 white coin (butterfly)
-Sweet butterfly: 1 white coin (kyno_sugarfly)
-Moon butterfly: 1 white coin (moonbutterfly)
-Fig: 2 white coin (fig)
-
-<!-- new2 -->
-Banana: 1 white coin (kyno_banana)
-Coconut: 1 white coin (kyno_kokonut)
-coffee beans: 1 white coin (kyno_coffeebeans)
-Glow berry: 1 white coin (wormlight)
-Night berry: 2 white coin (ancientfruit_nightvision)
-Spotty sprig: 1 white coin (kyno_spotspice_leaf)
-Wheat: 1 white coin (kyno_wheat)
-Beefalo milk: 1 white coin (kyno_milk_beefalo)
-Koalefan milk: 1 white coin (kyno_milk_koalefant)
-Cheese: 2 white coin (cheese_yellow)
-White cheese: 2 white coin (cheese_white)
-Koalefan cheese: 2 white coin (cheese_koalefant)
-eel and lichen: 1 white coin (cutlichen)
-Morsel: 1 white coin (smallmeat)
-Meat: 1 white coin (meat)
-Monster meat: 1 white coin (monstermeat)
-Leaf meat: 1 white coin (plantmeat)
-Frog leg: 1 white coin (froglegs)
-Koalefan trunk: 2 white coin (trunk)
-Koalefan trunk (winter version): 2 white coin (trunk_winter)
-Chicken egg: 1 white coin (bird_egg)
-Wobster: 1 blue coin (wobster_monkeyisland_land)
-Sunfish: 1 blue coin (oceanfish_small_8_inv)
-Ice bream fish: 1 blue coin (oceanfish_medium_8_inv)
-Oil: 2 white coin (kyno_oil)
-Aloe: 1 White coin (kyno_aloe)
-Radish: 1 white coin (kyno_radish)
-Rice: 1 white coin (kyno_rice)
-Sweet potato: 1 white coin (kyno_sweetpotato)
-Turnip: 1 white coin (kyno_turnip)
-Parsnip: 1 white coin (kyno_parznip)
-Sea cucumber: 1 white coin (kyno_cucumber)
-Bread: 2 white coin (littlebread)
-Juicy berry: 1 white coin (berries_juicy)
-```
+| name                            | prefab                      | numtogive | blue | green | white |
+| ------------------------------- | --------------------------- | --------- | ---: | ----: | ----: |
+| Butter                          | butter                      | 1         |     |      |    5 |
+| Fire nettle                     | firenettles                 | 1         |     |      |    2 |
+| cold nettle                     | kyno_icenettles             | 1         |     |      |    2 |
+| Mandrake                        | mandrake                    | 1         |   1 |      |      |
+| Shark meat                      | kyno_shark_fin              | 1         |     |    1 |      |
+| Poison frog leg                 | kyno_poison_froglegs        | 1         |     |    1 |      |
+| Nuts                            | kyno_twiggynuts             | 1         |     |      |    2 |
+| Yellow piko                     | kyno_piko                   | 1         |     |    1 |      |
+| Black piko                      | kyno_piko_orange            | 1         |     |    1 |      |
+| Crab meat                       | kyno_crabmeat               | 1         |     |    1 |      |
+| Crab king meat                  | kyno_crabkingmeat           | 1         |   1 |      |      |
+| Midnight fish                   | oceanfish_midnight_carp_inv | 1         |     |    1 |      |
+| Drumstick                       | drumstick                   | 1         |     |      |    2 |
+| Bright frog leg                 | kyno_moon_froglegs          | 1         |     |    1 |      |
+| Bean bugs                       | kyno_beanbugs               | 3         |     |    1 |      |
+| Blue snail                      | kyno_limpets                | 1         |     |    1 |      |
+| Succulent                       | succulent_picked            | 1         |     |      |    1 |
+| Worm bone                       | kyno_worm_bone              | 1         |     |    1 |      |
+| Alive salmon                    | kyno_salmonfish             | 1         |     |    1 |      |
+| Sap                             | kyno_sap                    | 1         |     |      |    1 |
+| Sword fish                      | kyno_swordfish_dead         | 1         |   1 |      |      |
+| Chilled swordfish               | kyno_swordfish_blue         | 1         |   1 |      |      |
+| Fern                            | foliage                     | 1         |     |      |    1 |
+| Electric milk                   | goatmilk                    | 1         |     |      |    2 |
+| Hermit wobster                  | wobster_monkeyisland_land   | 1         |   1 |      |      |
+| Blooming tube cave              | kyno_cavetuber_blooming     | 1         |     |      |    2 |
+| Taro root                       | kyno_taroroot               | 1         |     |      |    2 |
+| Lotus                           | kyno_lotus_flower           | 1         |     |      |    2 |
+| Watercress                      | kyno_waterycress            | 1         |     |      |    2 |
+| Chicken                         | kyno_chicken2               | 1         |     |    1 |      |
+| Egg chicken                     | kyno_chicken_egg            | 1         |     |      |    2 |
+| Tea leaves                      | kyno_tealeaf                | 1         |     |      |    1 |
+| Brainy matter                   | kyno_brainrock_coral        | 1         |   1 |      |      |
+| Mussel                          | kyno_mussel                 | 1         |     |      |    1 |
+| Fennel                          | kyno_fennel                 | 1         |     |      |    2 |
+| Ice                             | ice                         | 1         |     |      |    1 |
+| Honey                           | honey                       | 1         |     |      |    1 |
+| Berry                           | berries                     | 1         |     |      |    1 |
+| Pineapple                       | kyno_pineapple              | 3         |     |    1 |      |
+| Long pig                        | kyno_humanmeat              | 1         |     |      |    1 |
+| Dead jellyfish                  | kyno_jellyfish_dead         | 1         |     |      |    1 |
+| Rainbow jellyfish               | kyno_jellyfish_rainbow      | 3         |     |    1 |      |
+| Live eel                        | pondeel                     | 3         |     |    1 |      |
+| Purple grouper fish             | kyno_grouper                | 1         |     |      |    2 |
+| Royal Jelly                     | royal_jelly                 | 1         |   1 |      |      |
+| Lava egg                        | lavae_egg                   | 1         |   1 |      |      |
+| Bearger fur                     | bearger_fur                 | 1         |   1 |      |      |
+| Eyeball                         | deerclops_eyeball           | 1         |   1 |      |      |
+| Syrup                           | kyno_syrup                  | 1         |     |      |    2 |
+| Chocolate                       | chocolate_black             | 1         |     |      |    2 |
+| White chocolate                 | chocolate_white             | 1         |     |      |    3 |
+| Butterfly                       | butterfly                   | 1         |     |      |    1 |
+| Sweet butterfly                 | kyno_sugarfly               | 5         |     |    1 |      |
+| Moon butterfly                  | moonbutterfly               | 5         |     |    1 |      |
+| Fig                             | fig                         | 1         |     |      |    2 |
+| Banana                          | kyno_banana                 | 1         |     |      |    1 |
+| Coconut                         | kyno_kokonut                | 1         |     |      |    1 |
+| coffee beans                    | kyno_coffeebeans            | 1         |     |      |    1 |
+| Glow berry                      | wormlight                   | 1         |     |      |    1 |
+| Night berry                     | ancientfruit_nightvision    | 2         |     |    1 |      |
+| Spotty sprig                    | kyno_spotspice_leaf         | 1         |     |      |    1 |
+| Wheat                           | kyno_wheat                  | 1         |     |      |    1 |
+| Beefalo milk                    | kyno_milk_beefalo           | 1         |     |      |    1 |
+| Koalefan milk                   | kyno_milk_koalefant         | 1         |     |      |    1 |
+| Cheese                          | cheese_yellow               | 1         |     |      |    2 |
+| White cheese                    | cheese_white                | 1         |     |      |    2 |
+| Koalefan cheese                 | cheese_koalefant            | 1         |     |      |    2 |
+| eel and lichen                  | cutlichen                   | 1         |     |      |    1 |
+| Morsel                          | smallmeat                   | 1         |     |      |    1 |
+| Meat                            | meat                        | 1         |     |      |    1 |
+| Monster meat                    | monstermeat                 | 1         |     |      |    1 |
+| Leaf meat                       | plantmeat                   | 1         |     |      |    1 |
+| Frog leg                        | froglegs                    | 1         |     |      |    1 |
+| Koalefan trunk                  | trunk                       | 1         |     |      |    2 |
+| Koalefan trunk (winter version) | trunk_winter                | 1         |     |      |    2 |
+| Chicken egg                     | bird_egg                    | 1         |     |      |    1 |
+| Wobster                         | wobster_monkeyisland_land   | 1         |   1 |      |      |
+| Sunfish                         | oceanfish_small_8_inv       | 1         |   1 |      |      |
+| Ice bream fish                  | oceanfish_medium_8_inv      | 1         |   1 |      |      |
+| Oil                             | kyno_oil                    | 1         |     |      |    2 |
+| Aloe                            | kyno_aloe                   | 1         |     |      |    1 |
+| Radish                          | kyno_radish                 | 1         |     |      |    1 |
+| Rice                            | kyno_rice                   | 1         |     |      |    1 |
+| Sweet potato                    | kyno_sweetpotato            | 1         |     |      |    1 |
+| Turnip                          | kyno_turnip                 | 1         |     |      |    1 |
+| Parsnip                         | kyno_parznip                | 1         |     |      |    1 |
+| Sea cucumber                    | kyno_cucumber               | 1         |     |      |    1 |
+| Bread                           | littlebread                 | 1         |     |      |    2 |
+| Juicy berry                     | berries_juicy               | 1         |     |      |    1 |
+| Loaf of Bread                   | gorge_bread                 | 1         |     |      |    2 |
