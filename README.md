@@ -14,14 +14,14 @@ kyno_pigcoin3 = blue coin
 | Butter                          | butter                      | 1         |     |      |    5 |
 | Fire nettle                     | firenettles                 | 1         |     |      |    2 |
 | cold nettle                     | kyno_icenettles             | 1         |     |      |    2 |
-| Mandrake                        | mandrake                    | 1         |   1 |      |      |
+| Mandrake                        | mandrake                    | 1         |   1 |    5 |      |
 | Shark meat                      | kyno_shark_fin              | 1         |     |    1 |      |
 | Poison frog leg                 | kyno_poison_froglegs        | 1         |     |    1 |      |
 | Nuts                            | kyno_twiggynuts             | 1         |     |      |    2 |
 | Yellow piko                     | kyno_piko                   | 1         |     |    1 |      |
 | Black piko                      | kyno_piko_orange            | 1         |     |    1 |      |
 | Crab meat                       | kyno_crabmeat               | 1         |     |    1 |      |
-| Crab king meat                  | kyno_crabkingmeat           | 1         |   1 |      |      |
+| Crab king meat                  | kyno_crabkingmeat           | 1         |   1 |    5 |      |
 | Midnight fish                   | oceanfish_midnight_carp_inv | 1         |     |    1 |      |
 | Drumstick                       | drumstick                   | 1         |     |      |    2 |
 | Bright frog leg                 | kyno_moon_froglegs          | 1         |     |    1 |      |
@@ -31,11 +31,11 @@ kyno_pigcoin3 = blue coin
 | Worm bone                       | kyno_worm_bone              | 1         |     |    1 |      |
 | Alive salmon                    | kyno_salmonfish             | 1         |     |    1 |      |
 | Sap                             | kyno_sap                    | 1         |     |      |    1 |
-| Sword fish                      | kyno_swordfish_dead         | 1         |   1 |      |      |
-| Chilled swordfish               | kyno_swordfish_blue         | 1         |   1 |      |      |
+| Sword fish                      | kyno_swordfish_dead         | 1         |   1 |    5 |      |
+| Chilled swordfish               | kyno_swordfish_blue         | 1         |   1 |    5 |      |
 | Fern                            | foliage                     | 1         |     |      |    1 |
 | Electric milk                   | goatmilk                    | 1         |     |      |    2 |
-| Hermit wobster                  | wobster_monkeyisland_land   | 1         |   1 |      |      |
+| Hermit wobster                  | wobster_monkeyisland_land   | 1         |   1 |    5 |      |
 | Blooming tube cave              | kyno_cavetuber_blooming     | 1         |     |      |    2 |
 | Taro root                       | kyno_taroroot               | 1         |     |      |    2 |
 | Lotus                           | kyno_lotus_flower           | 1         |     |      |    2 |
@@ -43,7 +43,7 @@ kyno_pigcoin3 = blue coin
 | Chicken                         | kyno_chicken2               | 1         |     |    1 |      |
 | Egg chicken                     | kyno_chicken_egg            | 1         |     |      |    2 |
 | Tea leaves                      | kyno_tealeaf                | 1         |     |      |    1 |
-| Brainy matter                   | kyno_brainrock_coral        | 1         |   1 |      |      |
+| Brainy matter                   | kyno_brainrock_coral        | 1         |   1 |    5 |      |
 | Mussel                          | kyno_mussel                 | 1         |     |      |    1 |
 | Fennel                          | kyno_fennel                 | 1         |     |      |    2 |
 | Ice                             | ice                         | 1         |     |      |    1 |
@@ -55,10 +55,10 @@ kyno_pigcoin3 = blue coin
 | Rainbow jellyfish               | kyno_jellyfish_rainbow      | 3         |     |    1 |      |
 | Live eel                        | pondeel                     | 3         |     |    1 |      |
 | Purple grouper fish             | kyno_grouper                | 1         |     |      |    2 |
-| Royal Jelly                     | royal_jelly                 | 1         |   1 |      |      |
-| Lava egg                        | lavae_egg                   | 1         |   1 |      |      |
-| Bearger fur                     | bearger_fur                 | 1         |   1 |      |      |
-| Eyeball                         | deerclops_eyeball           | 1         |   1 |      |      |
+| Royal Jelly                     | royal_jelly                 | 1         |   1 |    5 |      |
+| Lava egg                        | lavae_egg                   | 1         |   1 |    5 |      |
+| Bearger fur                     | bearger_fur                 | 1         |   1 |    5 |      |
+| Eyeball                         | deerclops_eyeball           | 1         |   1 |    5 |      |
 | Syrup                           | kyno_syrup                  | 1         |     |      |    2 |
 | Chocolate                       | chocolate_black             | 1         |     |      |    2 |
 | White chocolate                 | chocolate_white             | 1         |     |      |    3 |
@@ -87,9 +87,9 @@ kyno_pigcoin3 = blue coin
 | Koalefan trunk                  | trunk                       | 1         |     |      |    2 |
 | Koalefan trunk (winter version) | trunk_winter                | 1         |     |      |    2 |
 | Chicken egg                     | bird_egg                    | 1         |     |      |    1 |
-| Wobster                         | wobster_monkeyisland_land   | 1         |   1 |      |      |
-| Sunfish                         | oceanfish_small_8_inv       | 1         |   1 |      |      |
-| Ice bream fish                  | oceanfish_medium_8_inv      | 1         |   1 |      |      |
+| Wobster                         | wobster_monkeyisland_land   | 1         |   1 |    5 |      |
+| Sunfish                         | oceanfish_small_8_inv       | 1         |   1 |    5 |      |
+| Ice bream fish                  | oceanfish_medium_8_inv      | 1         |   1 |    5 |      |
 | Oil                             | kyno_oil                    | 1         |     |      |    2 |
 | Aloe                            | kyno_aloe                   | 1         |     |      |    1 |
 | Radish                          | kyno_radish                 | 1         |     |      |    1 |
@@ -101,4 +101,4 @@ kyno_pigcoin3 = blue coin
 | Bread                           | littlebread                 | 1         |     |      |    2 |
 | Juicy berry                     | berries_juicy               | 1         |     |      |    1 |
 | Loaf of Bread                   | gorge_bread                 | 1         |     |      |    2 |
-|                            total|                             |           |   13|    18|    59|
+|total                            |                             |           |   13|    31|    59|
