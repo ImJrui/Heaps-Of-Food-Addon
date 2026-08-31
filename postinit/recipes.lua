@@ -24,6 +24,7 @@ for recipe, data in pairs(rebalance_recipes) do
             description       = recipe.."_a",
             sg_state          = "give",
             product           = recipe,
+            numtogive         = data.numtogive or 1
         },
         {"CRAFTING_STATION"}
     )
