@@ -101,3 +101,4 @@ kyno_pigcoin3 = blue coin
 | Bread                           | littlebread                 | 1         |     |      |    2 |
 | Juicy berry                     | berries_juicy               | 1         |     |      |    1 |
 | Loaf of Bread                   | gorge_bread                 | 1         |     |      |    2 |
+|                            total|                             |           |   13|    18|    59|
